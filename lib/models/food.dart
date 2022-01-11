@@ -20,7 +20,7 @@ class Food {
       Food(
         'assets/images/dish1.png',
         'Highly Recomended',
-        'RatPas',
+        'Exemplo 1',
         '50 min',
         4.8,
         '317 kcal',
@@ -46,7 +46,7 @@ class Food {
       Food(
         'assets/images/dish4.png',
         'Highly Recomended',
-        'RatPas',
+        'Exemplo 2',
         '50 min',
         4.8,
         '317 kcal',
@@ -72,7 +72,7 @@ class Food {
       Food(
         'assets/images/dish3.png',
         'Highly Recomended',
-        'Ratatulie Pasta',
+        'Exemplo 3',
         '50 min',
         4.8,
         '317 kcal',
@@ -98,7 +98,7 @@ class Food {
       Food(
         'assets/images/dish1.png',
         'Highly Recomended',
-        'RatPas',
+        'Exemplo 4',
         '50 min',
         4.8,
         '317 kcal',
@@ -124,7 +124,7 @@ class Food {
       Food(
         'assets/images/dish2.png',
         'Highly Recomended',
-        'Rato',
+        'Exemplo 5',
         '50 min',
         5.0,
         '317 kcal',
@@ -150,7 +150,7 @@ class Food {
       Food(
         'assets/images/dish4.png',
         'Highly Recomended',
-        'pasta',
+        'Exemplo 6',
         '50 min',
         4.0,
         '317 kcal',
@@ -176,7 +176,7 @@ class Food {
       Food(
         'assets/images/dish3.png',
         'Highly Recomended',
-        'Ratatulie Pasta',
+        'Exemplo 7',
         '50 min',
         4.8,
         '317 kcal',
@@ -202,7 +202,7 @@ class Food {
       Food(
         'assets/images/dish1.png',
         'Highly Recomended',
-        'RatPas',
+        'Exemplo 8',
         '50 min',
         4.8,
         '317 kcal',
@@ -228,7 +228,7 @@ class Food {
       Food(
         'assets/images/dish2.png',
         'Highly Recomended',
-        'Rato',
+        'Exemplo 9',
         '50 min',
         5.0,
         '317 kcal',
@@ -254,7 +254,7 @@ class Food {
       Food(
         'assets/images/dish4.png',
         'Highly Recomended',
-        'pasta',
+        'Exemplo 10',
         '50 min',
         4.0,
         '317 kcal',
@@ -280,7 +280,7 @@ class Food {
       Food(
         'assets/images/dish3.png',
         'Highly Recomended',
-        'Ratatulie Pasta',
+        'Exemplo 11',
         '50 min',
         4.8,
         '317 kcal',
@@ -306,7 +306,7 @@ class Food {
       Food(
         'assets/images/dish1.png',
         'Highly Recomended',
-        'RatPas',
+        'Exemplo 12',
         '50 min',
         4.8,
         '317 kcal',
@@ -332,7 +332,7 @@ class Food {
       Food(
         'assets/images/dish2.png',
         'Highly Recomended',
-        'Rato',
+        'Exemplo 13',
         '50 min',
         5.0,
         '317 kcal',
@@ -358,7 +358,7 @@ class Food {
       Food(
         'assets/images/dish4.png',
         'Highly Recomended',
-        'pasta',
+        'Exemplo 14',
         '50 min',
         4.0,
         '317 kcal',
@@ -389,7 +389,7 @@ class Food {
       Food(
         'assets/images/dish3.png',
         'Highly Recomended',
-        'Ratatulie Pasta',
+        'Exemplo 15',
         '50 min',
         4.8,
         '317 kcal',
@@ -415,7 +415,7 @@ class Food {
       Food(
         'assets/images/dish1.png',
         'Highly Recomended',
-        'RatPas',
+        'Exemplo 16',
         '50 min',
         4.8,
         '317 kcal',
@@ -441,7 +441,7 @@ class Food {
       Food(
         'assets/images/dish2.png',
         'Highly Recomended',
-        'Rato',
+        'Exemplo 17',
         '50 min',
         5.0,
         '317 kcal',
@@ -467,7 +467,7 @@ class Food {
       Food(
         'assets/images/dish4.png',
         'Highly Recomended',
-        'pasta',
+        'Exemplo 18',
         '50 min',
         4.0,
         '317 kcal',
@@ -493,7 +493,7 @@ class Food {
       Food(
         'assets/images/dish3.png',
         'Highly Recomended',
-        'Ratatulie Pasta',
+        'Exemplo 18',
         '50 min',
         4.8,
         '317 kcal',
@@ -519,7 +519,7 @@ class Food {
       Food(
         'assets/images/dish1.png',
         'Highly Recomended',
-        'RatPas',
+        'Exemplo 19',
         '50 min',
         4.8,
         '317 kcal',
@@ -545,7 +545,7 @@ class Food {
       Food(
         'assets/images/dish2.png',
         'Highly Recomended',
-        'Rato',
+        'Exemplo 20',
         '50 min',
         5.0,
         '317 kcal',
@@ -571,7 +571,7 @@ class Food {
       Food(
         'assets/images/dish4.png',
         'Highly Recomended',
-        'pasta',
+        'Exemplo 21',
         '50 min',
         4.0,
         '317 kcal',
@@ -597,7 +597,7 @@ class Food {
       Food(
         'assets/images/dish3.png',
         'Highly Recomended',
-        'Ratatulie Pasta',
+        'Exemplo 22',
         '50 min',
         4.8,
         '317 kcal',
@@ -623,7 +623,7 @@ class Food {
       Food(
         'assets/images/dish1.png',
         'Highly Recomended',
-        'RatPas',
+        'Exemplo 23',
         '50 min',
         4.8,
         '317 kcal',
@@ -649,7 +649,7 @@ class Food {
       Food(
         'assets/images/dish2.png',
         'Highly Recomended',
-        'Rato',
+        'Exemplo 24',
         '50 min',
         5.0,
         '317 kcal',
@@ -675,7 +675,7 @@ class Food {
       Food(
         'assets/images/dish4.png',
         'Highly Recomended',
-        'pasta',
+        'Exemplo 25',
         '50 min',
         4.0,
         '317 kcal',
