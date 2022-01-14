@@ -25,7 +25,7 @@ class Food {
         4.8,
         '317 kcal',
         16.80,
-        0,
+        1,
         [
           {
             "Noodle": 'assets/images/ingre1.png',
@@ -39,8 +39,20 @@ class Food {
           {
             "Scallion": 'assets/images/ingre4.png',
           },
+          {
+            "Noodle": 'assets/images/ingre1.png',
+          },
+          {
+            "Shrimp": 'assets/images/ingre3.png',
+          },
+          {
+            "Egg": 'assets/images/ingre2.png',
+          },
+          {
+            "Scallion": 'assets/images/ingre4.png',
+          },
         ],
-        'Simply put ramen is Japanese',
+        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eleifend nulla ac velit auctor porttitor. Donec pretium nisl felis, ac hendrerit mauris vehicula sed. Praesent sit amet ex sit amet justo elementum vestibulum. Curabitur et pellentesque massa. Quisque convallis magna non mi hendrerit, faucibus mattis ligula auctor. Morbi sagittis et ipsum in hendrerit. Phasellus eget efficitur eros, quis efficitur sem. Suspendisse sit amet orci quis eros tempor laoreet. In eget libero pulvinar, semper tellus vel, rutrum magna. Nam elit massa, pharetra sed lectus at, euismod laoreet mi. In nec eros at mauris viverra tristique. Cras gravida ante aliquet ipsum hendrerit, non tempus est aliquet. Suspendisse suscipit pulvinar ligula, id vehicula odio posuere sed. Cras bibendum scelerisque nunc ac feugiat.',
         hightLight: true,
       ),
       Food(
@@ -51,7 +63,7 @@ class Food {
         4.8,
         '317 kcal',
         16.99,
-        0,
+        1,
         [
           {
             "Noodle": 'assets/images/ingre1.png',
@@ -66,7 +78,7 @@ class Food {
             "Scallion": 'assets/images/ingre4.png',
           },
         ],
-        'Simply put ramen is Japanese',
+        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eleifend nulla ac velit auctor porttitor. Donec pretium nisl felis, ac hendrerit mauris vehicula sed. Praesent sit amet ex sit amet justo elementum vestibulum. Curabitur et pellentesque massa. Quisque convallis magna non mi hendrerit, faucibus mattis ligula auctor. Morbi sagittis et ipsum in hendrerit. Phasellus eget efficitur eros, quis efficitur sem. Suspendisse sit amet orci quis eros tempor laoreet. In eget libero pulvinar, semper tellus vel, rutrum magna. Nam elit massa, pharetra sed lectus at, euismod laoreet mi. In nec eros at mauris viverra tristique. Cras gravida ante aliquet ipsum hendrerit, non tempus est aliquet. Suspendisse suscipit pulvinar ligula, id vehicula odio posuere sed. Cras bibendum scelerisque nunc ac feugiat.',
         hightLight: true,
       ),
       Food(
@@ -77,7 +89,7 @@ class Food {
         4.8,
         '317 kcal',
         17.9,
-        0,
+        1,
         [
           {
             "Noodle": 'assets/images/ingre1.png',
@@ -92,7 +104,7 @@ class Food {
             "Scallion": 'assets/images/ingre4.png',
           },
         ],
-        'Simply put ramen is Japanese',
+        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eleifend nulla ac velit auctor porttitor. Donec pretium nisl felis, ac hendrerit mauris vehicula sed. Praesent sit amet ex sit amet justo elementum vestibulum. Curabitur et pellentesque massa. Quisque convallis magna non mi hendrerit, faucibus mattis ligula auctor. Morbi sagittis et ipsum in hendrerit. Phasellus eget efficitur eros, quis efficitur sem. Suspendisse sit amet orci quis eros tempor laoreet. In eget libero pulvinar, semper tellus vel, rutrum magna. Nam elit massa, pharetra sed lectus at, euismod laoreet mi. In nec eros at mauris viverra tristique. Cras gravida ante aliquet ipsum hendrerit, non tempus est aliquet. Suspendisse suscipit pulvinar ligula, id vehicula odio posuere sed. Cras bibendum scelerisque nunc ac feugiat.',
         hightLight: true,
       ),
       Food(
@@ -103,7 +115,7 @@ class Food {
         4.8,
         '317 kcal',
         16.0,
-        0,
+        1,
         [
           {
             "Noodle": 'assets/images/ingre1.png',
@@ -118,7 +130,7 @@ class Food {
             "Scallion": 'assets/images/ingre4.png',
           },
         ],
-        'Simply put ramen is Japanese',
+        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eleifend nulla ac velit auctor porttitor. Donec pretium nisl felis, ac hendrerit mauris vehicula sed. Praesent sit amet ex sit amet justo elementum vestibulum. Curabitur et pellentesque massa. Quisque convallis magna non mi hendrerit, faucibus mattis ligula auctor. Morbi sagittis et ipsum in hendrerit. Phasellus eget efficitur eros, quis efficitur sem. Suspendisse sit amet orci quis eros tempor laoreet. In eget libero pulvinar, semper tellus vel, rutrum magna. Nam elit massa, pharetra sed lectus at, euismod laoreet mi. In nec eros at mauris viverra tristique. Cras gravida ante aliquet ipsum hendrerit, non tempus est aliquet. Suspendisse suscipit pulvinar ligula, id vehicula odio posuere sed. Cras bibendum scelerisque nunc ac feugiat.',
         hightLight: true,
       ),
       Food(
@@ -129,7 +141,7 @@ class Food {
         5.0,
         '317 kcal',
         14.75,
-        0,
+        1,
         [
           {
             "Noodle": 'assets/images/ingre4.png',
@@ -144,7 +156,7 @@ class Food {
             "Scallion": 'assets/images/ingre1.png',
           },
         ],
-        'Simply put ramen is Japanese',
+        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eleifend nulla ac velit auctor porttitor. Donec pretium nisl felis, ac hendrerit mauris vehicula sed. Praesent sit amet ex sit amet justo elementum vestibulum. Curabitur et pellentesque massa. Quisque convallis magna non mi hendrerit, faucibus mattis ligula auctor. Morbi sagittis et ipsum in hendrerit. Phasellus eget efficitur eros, quis efficitur sem. Suspendisse sit amet orci quis eros tempor laoreet. In eget libero pulvinar, semper tellus vel, rutrum magna. Nam elit massa, pharetra sed lectus at, euismod laoreet mi. In nec eros at mauris viverra tristique. Cras gravida ante aliquet ipsum hendrerit, non tempus est aliquet. Suspendisse suscipit pulvinar ligula, id vehicula odio posuere sed. Cras bibendum scelerisque nunc ac feugiat.',
         hightLight: true,
       ),
       Food(
@@ -155,7 +167,7 @@ class Food {
         4.0,
         '317 kcal',
         11,
-        0,
+        1,
         [
           {
             "Noodle": 'assets/images/ingre2.png',
@@ -170,7 +182,7 @@ class Food {
             "Scallion": 'assets/images/ingre3.png',
           },
         ],
-        'Simply put ramen is Japanese',
+        'SLorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eleifend nulla ac velit auctor porttitor. Donec pretium nisl felis, ac hendrerit mauris vehicula sed. Praesent sit amet ex sit amet justo elementum vestibulum. Curabitur et pellentesque massa. Quisque convallis magna non mi hendrerit, faucibus mattis ligula auctor. Morbi sagittis et ipsum in hendrerit. Phasellus eget efficitur eros, quis efficitur sem. Suspendisse sit amet orci quis eros tempor laoreet. In eget libero pulvinar, semper tellus vel, rutrum magna. Nam elit massa, pharetra sed lectus at, euismod laoreet mi. In nec eros at mauris viverra tristique. Cras gravida ante aliquet ipsum hendrerit, non tempus est aliquet. Suspendisse suscipit pulvinar ligula, id vehicula odio posuere sed. Cras bibendum scelerisque nunc ac feugiat.ramen is Japanese',
         hightLight: true,
       ),
       Food(
@@ -181,7 +193,7 @@ class Food {
         4.8,
         '317 kcal',
         17.99,
-        0,
+        1,
         [
           {
             "Noodle": 'assets/images/ingre1.png',
@@ -196,7 +208,7 @@ class Food {
             "Scallion": 'assets/images/ingre4.png',
           },
         ],
-        'Simply put ramen is Japanese',
+        'Simply puLorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eleifend nulla ac velit auctor porttitor. Donec pretium nisl felis, ac hendrerit mauris vehicula sed. Praesent sit amet ex sit amet justo elementum vestibulum. Curabitur et pellentesque massa. Quisque convallis magna non mi hendrerit, faucibus mattis ligula auctor. Morbi sagittis et ipsum in hendrerit. Phasellus eget efficitur eros, quis efficitur sem. Suspendisse sit amet orci quis eros tempor laoreet. In eget libero pulvinar, semper tellus vel, rutrum magna. Nam elit massa, pharetra sed lectus at, euismod laoreet mi. In nec eros at mauris viverra tristique. Cras gravida ante aliquet ipsum hendrerit, non tempus est aliquet. Suspendisse suscipit pulvinar ligula, id vehicula odio posuere sed. Cras bibendum scelerisque nunc ac feugiat.t ramen is Japanese',
         hightLight: true,
       ),
       Food(
@@ -207,7 +219,7 @@ class Food {
         4.8,
         '317 kcal',
         16,
-        0,
+        1,
         [
           {
             "Noodle": 'assets/images/ingre1.png',
@@ -222,7 +234,7 @@ class Food {
             "Scallion": 'assets/images/ingre4.png',
           },
         ],
-        'Simply put ramen is Japanese',
+        'Simply putLorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eleifend nulla ac velit auctor porttitor. Donec pretium nisl felis, ac hendrerit mauris vehicula sed. Praesent sit amet ex sit amet justo elementum vestibulum. Curabitur et pellentesque massa. Quisque convallis magna non mi hendrerit, faucibus mattis ligula auctor. Morbi sagittis et ipsum in hendrerit. Phasellus eget efficitur eros, quis efficitur sem. Suspendisse sit amet orci quis eros tempor laoreet. In eget libero pulvinar, semper tellus vel, rutrum magna. Nam elit massa, pharetra sed lectus at, euismod laoreet mi. In nec eros at mauris viverra tristique. Cras gravida ante aliquet ipsum hendrerit, non tempus est aliquet. Suspendisse suscipit pulvinar ligula, id vehicula odio posuere sed. Cras bibendum scelerisque nunc ac feugiat. ramen is Japanese',
         hightLight: true,
       ),
       Food(
@@ -233,7 +245,7 @@ class Food {
         5.0,
         '317 kcal',
         14,
-        0,
+        1,
         [
           {
             "Noodle": 'assets/images/ingre4.png',
@@ -248,7 +260,7 @@ class Food {
             "Scallion": 'assets/images/ingre1.png',
           },
         ],
-        'Simply put ramen is Japanese',
+        'Simply putLorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eleifend nulla ac velit auctor porttitor. Donec pretium nisl felis, ac hendrerit mauris vehicula sed. Praesent sit amet ex sit amet justo elementum vestibulum. Curabitur et pellentesque massa. Quisque convallis magna non mi hendrerit, faucibus mattis ligula auctor. Morbi sagittis et ipsum in hendrerit. Phasellus eget efficitur eros, quis efficitur sem. Suspendisse sit amet orci quis eros tempor laoreet. In eget libero pulvinar, semper tellus vel, rutrum magna. Nam elit massa, pharetra sed lectus at, euismod laoreet mi. In nec eros at mauris viverra tristique. Cras gravida ante aliquet ipsum hendrerit, non tempus est aliquet. Suspendisse suscipit pulvinar ligula, id vehicula odio posuere sed. Cras bibendum scelerisque nunc ac feugiat. ramen is Japanese',
         hightLight: true,
       ),
       Food(
@@ -259,7 +271,7 @@ class Food {
         4.0,
         '317 kcal',
         11,
-        0,
+        1,
         [
           {
             "Noodle": 'assets/images/ingre2.png',
@@ -274,7 +286,7 @@ class Food {
             "Scallion": 'assets/images/ingre3.png',
           },
         ],
-        'Simply put ramen is Japanese',
+        'Simply put ramen is Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eleifend nulla ac velit auctor porttitor. Donec pretium nisl felis, ac hendrerit mauris vehicula sed. Praesent sit amet ex sit amet justo elementum vestibulum. Curabitur et pellentesque massa. Quisque convallis magna non mi hendrerit, faucibus mattis ligula auctor. Morbi sagittis et ipsum in hendrerit. Phasellus eget efficitur eros, quis efficitur sem. Suspendisse sit amet orci quis eros tempor laoreet. In eget libero pulvinar, semper tellus vel, rutrum magna. Nam elit massa, pharetra sed lectus at, euismod laoreet mi. In nec eros at mauris viverra tristique. Cras gravida ante aliquet ipsum hendrerit, non tempus est aliquet. Suspendisse suscipit pulvinar ligula, id vehicula odio posuere sed. Cras bibendum scelerisque nunc ac feugiat.Japanese',
         hightLight: true,
       ),
       Food(
@@ -285,7 +297,7 @@ class Food {
         4.8,
         '317 kcal',
         17,
-        0,
+        1,
         [
           {
             "Noodle": 'assets/images/ingre1.png',
@@ -300,7 +312,7 @@ class Food {
             "Scallion": 'assets/images/ingre4.png',
           },
         ],
-        'Simply put ramen is Japanese',
+        'Simply put ramen is JaLorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eleifend nulla ac velit auctor porttitor. Donec pretium nisl felis, ac hendrerit mauris vehicula sed. Praesent sit amet ex sit amet justo elementum vestibulum. Curabitur et pellentesque massa. Quisque convallis magna non mi hendrerit, faucibus mattis ligula auctor. Morbi sagittis et ipsum in hendrerit. Phasellus eget efficitur eros, quis efficitur sem. Suspendisse sit amet orci quis eros tempor laoreet. In eget libero pulvinar, semper tellus vel, rutrum magna. Nam elit massa, pharetra sed lectus at, euismod laoreet mi. In nec eros at mauris viverra tristique. Cras gravida ante aliquet ipsum hendrerit, non tempus est aliquet. Suspendisse suscipit pulvinar ligula, id vehicula odio posuere sed. Cras bibendum scelerisque nunc ac feugiat.panese',
         hightLight: true,
       ),
       Food(
@@ -311,7 +323,7 @@ class Food {
         4.8,
         '317 kcal',
         16,
-        0,
+        1,
         [
           {
             "Noodle": 'assets/images/ingre1.png',
@@ -326,7 +338,7 @@ class Food {
             "Scallion": 'assets/images/ingre4.png',
           },
         ],
-        'Simply put ramen is Japanese',
+        'Simply pLorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eleifend nulla ac velit auctor porttitor. Donec pretium nisl felis, ac hendrerit mauris vehicula sed. Praesent sit amet ex sit amet justo elementum vestibulum. Curabitur et pellentesque massa. Quisque convallis magna non mi hendrerit, faucibus mattis ligula auctor. Morbi sagittis et ipsum in hendrerit. Phasellus eget efficitur eros, quis efficitur sem. Suspendisse sit amet orci quis eros tempor laoreet. In eget libero pulvinar, semper tellus vel, rutrum magna. Nam elit massa, pharetra sed lectus at, euismod laoreet mi. In nec eros at mauris viverra tristique. Cras gravida ante aliquet ipsum hendrerit, non tempus est aliquet. Suspendisse suscipit pulvinar ligula, id vehicula odio posuere sed. Cras bibendum scelerisque nunc ac feugiat.ut ramen is Japanese',
         hightLight: true,
       ),
       Food(
@@ -337,7 +349,7 @@ class Food {
         5.0,
         '317 kcal',
         14,
-        0,
+        1,
         [
           {
             "Noodle": 'assets/images/ingre4.png',
@@ -352,7 +364,7 @@ class Food {
             "Scallion": 'assets/images/ingre1.png',
           },
         ],
-        'Simply put ramen is Japanese',
+        'Simply put ramLorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eleifend nulla ac velit auctor porttitor. Donec pretium nisl felis, ac hendrerit mauris vehicula sed. Praesent sit amet ex sit amet justo elementum vestibulum. Curabitur et pellentesque massa. Quisque convallis magna non mi hendrerit, faucibus mattis ligula auctor. Morbi sagittis et ipsum in hendrerit. Phasellus eget efficitur eros, quis efficitur sem. Suspendisse sit amet orci quis eros tempor laoreet. In eget libero pulvinar, semper tellus vel, rutrum magna. Nam elit massa, pharetra sed lectus at, euismod laoreet mi. In nec eros at mauris viverra tristique. Cras gravida ante aliquet ipsum hendrerit, non tempus est aliquet. Suspendisse suscipit pulvinar ligula, id vehicula odio posuere sed. Cras bibendum scelerisque nunc ac feugiat.en is Japanese',
         hightLight: true,
       ),
       Food(
@@ -363,7 +375,7 @@ class Food {
         4.0,
         '317 kcal',
         11,
-        0,
+        1,
         [
           {
             "Noodle": 'assets/images/ingre2.png',
@@ -378,7 +390,7 @@ class Food {
             "Scallion": 'assets/images/ingre3.png',
           },
         ],
-        'Simply put ramen is Japanese',
+        'Simply put rameLorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eleifend nulla ac velit auctor porttitor. Donec pretium nisl felis, ac hendrerit mauris vehicula sed. Praesent sit amet ex sit amet justo elementum vestibulum. Curabitur et pellentesque massa. Quisque convallis magna non mi hendrerit, faucibus mattis ligula auctor. Morbi sagittis et ipsum in hendrerit. Phasellus eget efficitur eros, quis efficitur sem. Suspendisse sit amet orci quis eros tempor laoreet. In eget libero pulvinar, semper tellus vel, rutrum magna. Nam elit massa, pharetra sed lectus at, euismod laoreet mi. In nec eros at mauris viverra tristique. Cras gravida ante aliquet ipsum hendrerit, non tempus est aliquet. Suspendisse suscipit pulvinar ligula, id vehicula odio posuere sed. Cras bibendum scelerisque nunc ac feugiat.n is Japanese',
         hightLight: true,
       ),
     ];
@@ -394,7 +406,7 @@ class Food {
         4.8,
         '317 kcal',
         17,
-        0,
+        1,
         [
           {
             "Noodle": 'assets/images/ingre1.png',
@@ -409,7 +421,7 @@ class Food {
             "Scallion": 'assets/images/ingre4.png',
           },
         ],
-        'Simply put ramen is Japanese',
+        'Simply put ramenLorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eleifend nulla ac velit auctor porttitor. Donec pretium nisl felis, ac hendrerit mauris vehicula sed. Praesent sit amet ex sit amet justo elementum vestibulum. Curabitur et pellentesque massa. Quisque convallis magna non mi hendrerit, faucibus mattis ligula auctor. Morbi sagittis et ipsum in hendrerit. Phasellus eget efficitur eros, quis efficitur sem. Suspendisse sit amet orci quis eros tempor laoreet. In eget libero pulvinar, semper tellus vel, rutrum magna. Nam elit massa, pharetra sed lectus at, euismod laoreet mi. In nec eros at mauris viverra tristique. Cras gravida ante aliquet ipsum hendrerit, non tempus est aliquet. Suspendisse suscipit pulvinar ligula, id vehicula odio posuere sed. Cras bibendum scelerisque nunc ac feugiat. is Japanese',
         hightLight: true,
       ),
       Food(
@@ -420,7 +432,7 @@ class Food {
         4.8,
         '317 kcal',
         16,
-        0,
+        1,
         [
           {
             "Noodle": 'assets/images/ingre1.png',
@@ -435,7 +447,7 @@ class Food {
             "Scallion": 'assets/images/ingre4.png',
           },
         ],
-        'Simply put ramen is Japanese',
+        'Simply put ramen is JLorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eleifend nulla ac velit auctor porttitor. Donec pretium nisl felis, ac hendrerit mauris vehicula sed. Praesent sit amet ex sit amet justo elementum vestibulum. Curabitur et pellentesque massa. Quisque convallis magna non mi hendrerit, faucibus mattis ligula auctor. Morbi sagittis et ipsum in hendrerit. Phasellus eget efficitur eros, quis efficitur sem. Suspendisse sit amet orci quis eros tempor laoreet. In eget libero pulvinar, semper tellus vel, rutrum magna. Nam elit massa, pharetra sed lectus at, euismod laoreet mi. In nec eros at mauris viverra tristique. Cras gravida ante aliquet ipsum hendrerit, non tempus est aliquet. Suspendisse suscipit pulvinar ligula, id vehicula odio posuere sed. Cras bibendum scelerisque nunc ac feugiat.apanese',
         hightLight: true,
       ),
       Food(
@@ -446,7 +458,7 @@ class Food {
         5.0,
         '317 kcal',
         14,
-        0,
+        1,
         [
           {
             "Noodle": 'assets/images/ingre4.png',
@@ -461,7 +473,7 @@ class Food {
             "Scallion": 'assets/images/ingre1.png',
           },
         ],
-        'Simply put ramen is Japanese',
+        'Simply put ramen is JaLorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eleifend nulla ac velit auctor porttitor. Donec pretium nisl felis, ac hendrerit mauris vehicula sed. Praesent sit amet ex sit amet justo elementum vestibulum. Curabitur et pellentesque massa. Quisque convallis magna non mi hendrerit, faucibus mattis ligula auctor. Morbi sagittis et ipsum in hendrerit. Phasellus eget efficitur eros, quis efficitur sem. Suspendisse sit amet orci quis eros tempor laoreet. In eget libero pulvinar, semper tellus vel, rutrum magna. Nam elit massa, pharetra sed lectus at, euismod laoreet mi. In nec eros at mauris viverra tristique. Cras gravida ante aliquet ipsum hendrerit, non tempus est aliquet. Suspendisse suscipit pulvinar ligula, id vehicula odio posuere sed. Cras bibendum scelerisque nunc ac feugiat.panese',
         hightLight: true,
       ),
       Food(
@@ -472,7 +484,7 @@ class Food {
         4.0,
         '317 kcal',
         11,
-        0,
+        1,
         [
           {
             "Noodle": 'assets/images/ingre2.png',
@@ -487,7 +499,7 @@ class Food {
             "Scallion": 'assets/images/ingre3.png',
           },
         ],
-        'Simply put ramen is Japanese',
+        'Simply put ramen is JapanLorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eleifend nulla ac velit auctor porttitor. Donec pretium nisl felis, ac hendrerit mauris vehicula sed. Praesent sit amet ex sit amet justo elementum vestibulum. Curabitur et pellentesque massa. Quisque convallis magna non mi hendrerit, faucibus mattis ligula auctor. Morbi sagittis et ipsum in hendrerit. Phasellus eget efficitur eros, quis efficitur sem. Suspendisse sit amet orci quis eros tempor laoreet. In eget libero pulvinar, semper tellus vel, rutrum magna. Nam elit massa, pharetra sed lectus at, euismod laoreet mi. In nec eros at mauris viverra tristique. Cras gravida ante aliquet ipsum hendrerit, non tempus est aliquet. Suspendisse suscipit pulvinar ligula, id vehicula odio posuere sed. Cras bibendum scelerisque nunc ac feugiat.ese',
         hightLight: true,
       ),
       Food(
@@ -498,7 +510,7 @@ class Food {
         4.8,
         '317 kcal',
         17,
-        0,
+        1,
         [
           {
             "Noodle": 'assets/images/ingre1.png',
@@ -513,7 +525,7 @@ class Food {
             "Scallion": 'assets/images/ingre4.png',
           },
         ],
-        'Simply put ramen is Japanese',
+        'Simply put ramen is JapaLorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eleifend nulla ac velit auctor porttitor. Donec pretium nisl felis, ac hendrerit mauris vehicula sed. Praesent sit amet ex sit amet justo elementum vestibulum. Curabitur et pellentesque massa. Quisque convallis magna non mi hendrerit, faucibus mattis ligula auctor. Morbi sagittis et ipsum in hendrerit. Phasellus eget efficitur eros, quis efficitur sem. Suspendisse sit amet orci quis eros tempor laoreet. In eget libero pulvinar, semper tellus vel, rutrum magna. Nam elit massa, pharetra sed lectus at, euismod laoreet mi. In nec eros at mauris viverra tristique. Cras gravida ante aliquet ipsum hendrerit, non tempus est aliquet. Suspendisse suscipit pulvinar ligula, id vehicula odio posuere sed. Cras bibendum scelerisque nunc ac feugiat.nese',
         hightLight: true,
       ),
       Food(
@@ -524,7 +536,7 @@ class Food {
         4.8,
         '317 kcal',
         16,
-        0,
+        1,
         [
           {
             "Noodle": 'assets/images/ingre1.png',
@@ -539,7 +551,7 @@ class Food {
             "Scallion": 'assets/images/ingre4.png',
           },
         ],
-        'Simply put ramen is Japanese',
+        'Simply put ramen is JapanLorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eleifend nulla ac velit auctor porttitor. Donec pretium nisl felis, ac hendrerit mauris vehicula sed. Praesent sit amet ex sit amet justo elementum vestibulum. Curabitur et pellentesque massa. Quisque convallis magna non mi hendrerit, faucibus mattis ligula auctor. Morbi sagittis et ipsum in hendrerit. Phasellus eget efficitur eros, quis efficitur sem. Suspendisse sit amet orci quis eros tempor laoreet. In eget libero pulvinar, semper tellus vel, rutrum magna. Nam elit massa, pharetra sed lectus at, euismod laoreet mi. In nec eros at mauris viverra tristique. Cras gravida ante aliquet ipsum hendrerit, non tempus est aliquet. Suspendisse suscipit pulvinar ligula, id vehicula odio posuere sed. Cras bibendum scelerisque nunc ac feugiat.ese',
         hightLight: true,
       ),
       Food(
@@ -550,7 +562,7 @@ class Food {
         5.0,
         '317 kcal',
         14,
-        0,
+        1,
         [
           {
             "Noodle": 'assets/images/ingre4.png',
@@ -565,7 +577,7 @@ class Food {
             "Scallion": 'assets/images/ingre1.png',
           },
         ],
-        'Simply put ramen is Japanese',
+        'Simply put ramen is JapaLorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eleifend nulla ac velit auctor porttitor. Donec pretium nisl felis, ac hendrerit mauris vehicula sed. Praesent sit amet ex sit amet justo elementum vestibulum. Curabitur et pellentesque massa. Quisque convallis magna non mi hendrerit, faucibus mattis ligula auctor. Morbi sagittis et ipsum in hendrerit. Phasellus eget efficitur eros, quis efficitur sem. Suspendisse sit amet orci quis eros tempor laoreet. In eget libero pulvinar, semper tellus vel, rutrum magna. Nam elit massa, pharetra sed lectus at, euismod laoreet mi. In nec eros at mauris viverra tristique. Cras gravida ante aliquet ipsum hendrerit, non tempus est aliquet. Suspendisse suscipit pulvinar ligula, id vehicula odio posuere sed. Cras bibendum scelerisque nunc ac feugiat.nese',
         hightLight: true,
       ),
       Food(
@@ -576,7 +588,7 @@ class Food {
         4.0,
         '317 kcal',
         11,
-        0,
+        1,
         [
           {
             "Noodle": 'assets/images/ingre2.png',
@@ -591,7 +603,7 @@ class Food {
             "Scallion": 'assets/images/ingre3.png',
           },
         ],
-        'Simply put ramen is Japanese',
+        'Simply put ramen is JaLorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eleifend nulla ac velit auctor porttitor. Donec pretium nisl felis, ac hendrerit mauris vehicula sed. Praesent sit amet ex sit amet justo elementum vestibulum. Curabitur et pellentesque massa. Quisque convallis magna non mi hendrerit, faucibus mattis ligula auctor. Morbi sagittis et ipsum in hendrerit. Phasellus eget efficitur eros, quis efficitur sem. Suspendisse sit amet orci quis eros tempor laoreet. In eget libero pulvinar, semper tellus vel, rutrum magna. Nam elit massa, pharetra sed lectus at, euismod laoreet mi. In nec eros at mauris viverra tristique. Cras gravida ante aliquet ipsum hendrerit, non tempus est aliquet. Suspendisse suscipit pulvinar ligula, id vehicula odio posuere sed. Cras bibendum scelerisque nunc ac feugiat.panese',
         hightLight: true,
       ),
       Food(
@@ -602,7 +614,7 @@ class Food {
         4.8,
         '317 kcal',
         17,
-        0,
+        1,
         [
           {
             "Noodle": 'assets/images/ingre1.png',
@@ -617,7 +629,7 @@ class Food {
             "Scallion": 'assets/images/ingre4.png',
           },
         ],
-        'Simply put ramen is Japanese',
+        'Simply put ramen is JapaneLorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eleifend nulla ac velit auctor porttitor. Donec pretium nisl felis, ac hendrerit mauris vehicula sed. Praesent sit amet ex sit amet justo elementum vestibulum. Curabitur et pellentesque massa. Quisque convallis magna non mi hendrerit, faucibus mattis ligula auctor. Morbi sagittis et ipsum in hendrerit. Phasellus eget efficitur eros, quis efficitur sem. Suspendisse sit amet orci quis eros tempor laoreet. In eget libero pulvinar, semper tellus vel, rutrum magna. Nam elit massa, pharetra sed lectus at, euismod laoreet mi. In nec eros at mauris viverra tristique. Cras gravida ante aliquet ipsum hendrerit, non tempus est aliquet. Suspendisse suscipit pulvinar ligula, id vehicula odio posuere sed. Cras bibendum scelerisque nunc ac feugiat.se',
         hightLight: true,
       ),
       Food(
@@ -628,7 +640,7 @@ class Food {
         4.8,
         '317 kcal',
         16,
-        0,
+        1,
         [
           {
             "Noodle": 'assets/images/ingre1.png',
@@ -643,7 +655,7 @@ class Food {
             "Scallion": 'assets/images/ingre4.png',
           },
         ],
-        'Simply put ramen is Japanese',
+        'SimplLorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eleifend nulla ac velit auctor porttitor. Donec pretium nisl felis, ac hendrerit mauris vehicula sed. Praesent sit amet ex sit amet justo elementum vestibulum. Curabitur et pellentesque massa. Quisque convallis magna non mi hendrerit, faucibus mattis ligula auctor. Morbi sagittis et ipsum in hendrerit. Phasellus eget efficitur eros, quis efficitur sem. Suspendisse sit amet orci quis eros tempor laoreet. In eget libero pulvinar, semper tellus vel, rutrum magna. Nam elit massa, pharetra sed lectus at, euismod laoreet mi. In nec eros at mauris viverra tristique. Cras gravida ante aliquet ipsum hendrerit, non tempus est aliquet. Suspendisse suscipit pulvinar ligula, id vehicula odio posuere sed. Cras bibendum scelerisque nunc ac feugiat.y put ramen is Japanese',
         hightLight: true,
       ),
       Food(
@@ -654,7 +666,7 @@ class Food {
         5.0,
         '317 kcal',
         15,
-        0,
+        1,
         [
           {
             "Noodle": 'assets/images/ingre4.png',
@@ -669,7 +681,7 @@ class Food {
             "Scallion": 'assets/images/ingre1.png',
           },
         ],
-        'Simply put ramen is Japanese',
+        'Simply put ramen iLorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eleifend nulla ac velit auctor porttitor. Donec pretium nisl felis, ac hendrerit mauris vehicula sed. Praesent sit amet ex sit amet justo elementum vestibulum. Curabitur et pellentesque massa. Quisque convallis magna non mi hendrerit, faucibus mattis ligula auctor. Morbi sagittis et ipsum in hendrerit. Phasellus eget efficitur eros, quis efficitur sem. Suspendisse sit amet orci quis eros tempor laoreet. In eget libero pulvinar, semper tellus vel, rutrum magna. Nam elit massa, pharetra sed lectus at, euismod laoreet mi. In nec eros at mauris viverra tristique. Cras gravida ante aliquet ipsum hendrerit, non tempus est aliquet. Suspendisse suscipit pulvinar ligula, id vehicula odio posuere sed. Cras bibendum scelerisque nunc ac feugiat.s Japanese',
         hightLight: true,
       ),
       Food(
@@ -680,7 +692,7 @@ class Food {
         4.0,
         '317 kcal',
         11,
-        0,
+        1,
         [
           {
             "Noodle": 'assets/images/ingre2.png',
@@ -695,7 +707,7 @@ class Food {
             "Scallion": 'assets/images/ingre3.png',
           },
         ],
-        'Simply put ramen is Japanese',
+        'Simply put ramen is JLorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eleifend nulla ac velit auctor porttitor. Donec pretium nisl felis, ac hendrerit mauris vehicula sed. Praesent sit amet ex sit amet justo elementum vestibulum. Curabitur et pellentesque massa. Quisque convallis magna non mi hendrerit, faucibus mattis ligula auctor. Morbi sagittis et ipsum in hendrerit. Phasellus eget efficitur eros, quis efficitur sem. Suspendisse sit amet orci quis eros tempor laoreet. In eget libero pulvinar, semper tellus vel, rutrum magna. Nam elit massa, pharetra sed lectus at, euismod laoreet mi. In nec eros at mauris viverra tristique. Cras gravida ante aliquet ipsum hendrerit, non tempus est aliquet. Suspendisse suscipit pulvinar ligula, id vehicula odio posuere sed. Cras bibendum scelerisque nunc ac feugiat.apanese',
         hightLight: true,
       ),
     ];
