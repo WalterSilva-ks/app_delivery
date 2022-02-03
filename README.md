@@ -11,8 +11,9 @@ Em breve estarei adicionando prints e o link para baixar o app
 - [Link do projeto apk](https://drive.google.com/file/d/1VHMUVTLqMQTipH4qaOfdhXRVXo8Vrxy_/view?usp=sharing)
 
 
+![Screen 1](https://user-images.githubusercontent.com/95689416/152385189-223bfc9b-c5fe-4c6f-a18e-7ae7b8b12c26.jpeg)
 
-![Screen 1](https://user-images.githubusercontent.com/95689416/152374435-fc60048b-53fc-4cb4-bfd6-f3844954c431.jpeg)
+
 
 ![Screen 2](https://user-images.githubusercontent.com/95689416/152374596-c9a947b0-3d13-4259-b0be-b258079e6ce1.jpeg)
 
