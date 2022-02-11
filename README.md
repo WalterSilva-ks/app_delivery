@@ -1,7 +1,5 @@
 #  App_delivery
 
-A new Flutter project.
-
 ## Sobre o projeto
 
 A ideia com este app é proporcionar um mvp de um aplicativo para restaurante
